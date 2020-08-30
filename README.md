@@ -1,4 +1,4 @@
-# PercentageVote
+# PercentageVote - inclusive Budgeting
 Utilize Standing Distributions for a combined "Vote" allowing for equal input from all participants.
 
 ## Fairly combining all participant's point of view
