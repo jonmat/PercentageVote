@@ -16,7 +16,11 @@ To customize the spreadsheet, rename the budget categories at will. Delete unuse
 
 By following this pattern, the spreadsheet will be able to maintain the proper counts of total Budget Categories, and total Senators, which will ensure correct aggregations.
 
+## Example Use
+In the Two Screenshots below, the vote begins with an empty slate. As Senators vote, their Availble to Allocate decreases from 100%, and their Total % Allocated increases until it becomes 100%.
+In the second Screenshot, "Senator G" has 22% remaining to be allocated, and she can distribute it across any of the given choices, and is finished when 100% Allocate is reached.
 
 ## Screenshot
 ![](https://github.com/jonmat/PercentageVote/blob/master/PercentageVote.jpg)
+![](https://github.com/jonmat/PercentageVote/blob/master/PercentageVoteExample.jpg)
 
