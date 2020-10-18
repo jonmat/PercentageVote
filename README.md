@@ -1,7 +1,7 @@
-# PercentageVote
+# PercentageVote - inclusive Budgeting
 Utilize Standing Distributions for a combined "Vote" allowing for equal input from all participants.
 
-Fairly combining all participant's point of view
+## Fairly combining all participant's point of view
 Standing distributions are defined as a list of percentages that aggregate to 100%. They can be leveraged in interesting ways, one of which is for how to fairly take into account everyone's input, across a multitude of choices.
 
 There are many circumstances where a need to capture nuanced point of view and combine them together to arrive at an outcome. For example, deciding upon a budget. For illustrative purposes, the PercentageVote spreadsheet does just this, allowing for all participating "Senators" to decide where the budget should be directed. They do this by allocating "100%" of their Voting choice across the given budget categories.
